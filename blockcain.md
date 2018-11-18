@@ -1,9 +1,15 @@
+name: inverse
+class: center, middle, inverse
+layout: true
+title: TensorFlow-basic
+
 ---
 layout: page
 title: TensorFlow
 permalink: /Lecture/TensorFlow
 ---
 
+AAA
 ---
 
 <!-- *template: gaia -->
