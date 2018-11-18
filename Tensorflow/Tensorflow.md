@@ -1,3 +1,7 @@
+name: inverse
+class: center, middle, inverse
+layout: true
+title: TensorFlow
 ---
 name: inverse
 layout: page
