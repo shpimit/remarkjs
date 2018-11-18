@@ -1,15 +1,11 @@
+---
 name: inverse
 class: center, middle, inverse
 layout: true
 title: TensorFlow
----
-name: inverse
-layout: page
-title: TensorFlow
 permalink: /Lecture/TensorFlow
 ---
 
-layout: false
 <!-- *template: gaia -->
 <!-- page_number: false -->
 
@@ -39,7 +35,8 @@ layout: false
 
 ---
 
-<!-- *template: invert -->  
+<!-- *template: invert --> 
+layout: false 
 <a name="contents"/>
 
 ## Contents
