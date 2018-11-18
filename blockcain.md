@@ -40,7 +40,7 @@ AAA
 > <small>-- *텐서플로는 2015년에 오픈 소스로 공개된 을 수행하게 하는 CUDA 확장기능을 사용 구동될 수 있다.* </small>
 
 ---
-
+layout: false
 <!-- *template: invert -->  
 <a name="contents"/>
 
@@ -96,7 +96,7 @@ AAA
 > F9 한줄실행, F5 파일실행  
 
 ---
-
+template: inverse
 * [Windows TensorFlow Install](https://tensorflow.blog/윈도우즈에-아나콘다-텐서플로우-설치하기/)
 
   * 콘다 업데이트
@@ -113,7 +113,7 @@ AAA
 > pip install tensorflow==1.5.0  
 
 ---
-
+layout: false
 <!-- *template: invert -->
 <a name="data"/>
 
