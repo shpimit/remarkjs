@@ -25,7 +25,6 @@ permalink: /Lecture/TensorFlow
 ---
 
 <!-- $theme: gaia -->
-<!-- page_number: true -->
 
 ## Overview
 
