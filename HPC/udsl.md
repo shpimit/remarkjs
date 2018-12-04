@@ -1,7 +1,7 @@
-name: inverse
-class: center, middle, inverse
-layout: true
-title: AI
+layout: page
+title: AIn
+summary: AI is space to learn block chain algorithm & theory.
+permalink: /Lecture/AI
 ---
 
 <!-- *template: gaia -->
