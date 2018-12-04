@@ -1,8 +1,7 @@
 name: inverse
 class: center, middle, inverse
 layout: true
-title: TensorFlow
-permalink: /Lecture/TensorFlow
+title: AI
 ---
 
 <!-- *template: gaia -->
