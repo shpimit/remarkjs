@@ -8,7 +8,8 @@ title: AI 고속처리 시스템
 <!-- page_number: false -->
 
 # Introducing AI 고속처리 시스템 !!
-##### (이재진 교수님)
+
+#### (이재진 교수님)
 
 ---
 
@@ -25,15 +26,15 @@ title: AI 고속처리 시스템
 
 ---
 
-layout: false 
+layout: false
 
-<!-- *template: invert --> 
+<!-- *template: invert -->
 
 <a name="contents"/>
 
 ## Contents
 
-* **Table of Contents**   
+### Table of Contents
 
 |No|Titile|Remarks|
 |--:|:-:|:--|
@@ -52,7 +53,7 @@ layout: false
 
 > putty 다운로드
 > winscp 다운로드
- 
+
 ---
 
 template: inverse
@@ -67,7 +68,6 @@ class: middle
 * Thread Paralle
 
 ---
-
 
 template: inverse
 class: middle
