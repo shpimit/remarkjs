@@ -4,16 +4,11 @@ layout: true
 title: AI 고속처리 시스템
 ---
 
-<!-- *template: gaia -->
-<!-- page_number: false -->
-
 # Introducing AI 고속처리 시스템 !!
 
 #### (이재진 교수님)
 
 ---
-
-<!-- $theme: gaia -->
 
 ## Overview
 
@@ -27,8 +22,6 @@ title: AI 고속처리 시스템
 ---
 
 layout: false
-
-<!-- *template: invert -->
 
 <a name="contents"/>
 
@@ -49,7 +42,7 @@ layout: false
 
 ## Get Started(`chundoong`)
 
-* 천둥 연결하기 [개발환경 Setting](https://tensorflow.blog/윈도우즈에-아나콘다-텐서플로우-설치하기/)
+* 천둥 연결하기 [개발환경 Setting](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0/)
 
 > putty 다운로드
 > winscp 다운로드
@@ -66,6 +59,10 @@ class: middle
 * Data Paralle
 * Program Paralle
 * Thread Paralle
+
+## High-Performance
+
+* [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0/)
 
 ---
 
