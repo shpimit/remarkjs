@@ -5,21 +5,21 @@ layout: true
 
 # **다음주 Project 해야 하는데,**
 # **마땅한 <u>파트너(개발자)</u> 가 없다.**
-##
 
 ![ ](./main.jpg)
 
 ---
 
-layout: false
-class: center
+class: centerr, middle
 
 ### 처음 들어보는 개발자인데 실력을 알수 없을까?
 
-* 마이플랫폼 개발인데.. 우리는 React/Redux 할 줄 아는사람이 필요해...
-* 데이터 분석가인데.. SAS 통계전문가이네.. 우리는 Python 분석가 필요해..
+#### 마이플랫폼 개발인데.. 우리는 React/Redux 할 줄 아는사람이 필요해...
+#### 데이터 분석가인데.. SAS 통계전문가이네.. 우리는 Python 분석가 필요해..
 
 ---
+
+class: center, middle, inverse
 
 ### 내가 알고 있는 그 개발자는  지금 어디서 뭐하고 있을까?
 ### 옆 S 회사 프로젝트 中 이라고....
