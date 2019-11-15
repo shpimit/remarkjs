@@ -1,6 +1,7 @@
 name: inverse
 class: center, middle, inverse
 layout: true
+
 ---
 
 # **다음주 Project 해야 하는데,**
@@ -29,7 +30,7 @@ class: center, middle, inverse
 ---
 
 class: centerr, middle
-layout: true
+layout: false
 
 ### 인터넷에서 검색하면 개발자 찾을 수 있을까?
 
@@ -55,6 +56,8 @@ layout: true
 
 근데... 협력사 시스템하고, 우리 시스템은 다른 시스템인데...공유가능한가?
 아 블록체인 컨소시엄 맺어서, 서로 정보를 공유하면 어떨까?
+
+---
 
 ### 그런데... 블록체인은 정보가 오픈되어 있어서 인력 정보관리는 안 맞는것 아닌가?
 
