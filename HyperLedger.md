@@ -7,7 +7,7 @@ layout: true
 # **다음주 Project 해야 하는데,**
 # **마땅한 <u>파트너(개발자)</u> 가 없다.**
 
-![ ](./main.jpg)
+![ ](./img/main.jpg)
 
 ---
 
@@ -28,9 +28,6 @@ class: center, middle, inverse
 검증된 개발자로 프로젝트 진행하면, 리스크가 감소해서 좋은것 같은데...
 
 ---
-
-class: centerr, middle
-layout: false
 
 ### 인터넷에서 검색하면 개발자 찾을 수 있을까?
 
@@ -64,8 +61,22 @@ layout: false
 아!!! Private Blockchain 이 있지,  가입된 사람들한데만 공유하고...
 또 가입된 사람들도,  모두가 아닌 일부에게만 오픈 할수 있는 블록체인   HyperLeger Fabric
 
+---
 
+class: centerr, middle
+layout: false
 
+### Private 블록체인은 어떤 것이 장점이지?
+
+#### 블록체인인데  오픈하고 싶지 않은 정보는 오픈하지 않아도 되는구나
+
+---
+
+# **Public vs Private Blockchain**
+
+![ ](./img/compare.png)
+
+---
 
 
 
