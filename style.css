@@ -1,11 +1,11 @@
 body {
   /*font-family: 'Droid Serif';*/
-  font-family: 'Lato', 'Roboto', Helvetica, sans-serif;
+  font-family: 'Nanum Gothic', 'Lato', 'Roboto', Helvetica, sans-serif;
   font-size: medium;
 }
 h1, h2, h3 {
   /*font-family: 'Yanone Kaffeesatz';*/
-  font-family: 'Lato', Helvetica;
+  font-family: 'Nanum Gothic', 'Lato', Helvetica;
   font-weight: 400;
   margin-top: 30px;
   margin-bottom: 20px;
