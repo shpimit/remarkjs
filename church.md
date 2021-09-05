@@ -5,7 +5,6 @@ title: church
 ---
 
 # ● 교회를 세우는 행복한 집사
-
 ## 프롤로그
 
 * 안수집사는 교회의 허리 역할을 하는 직분이다.
@@ -13,7 +12,6 @@ title: church
 ---
 
 template: inverse
-class: middle
 layout: false
 
 ## 1. 집사란 직분을 바로 이해하고 섬기라
