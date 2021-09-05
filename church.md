@@ -11,7 +11,6 @@ title: church
 
 ---
 
-template: inverse
 layout: false
 
 ## 1. 집사란 직분을 바로 이해하고 섬기라
