@@ -4,6 +4,9 @@ layout: true
 title: 2021
 ---
 
+template: inverse
+class: middle
+
 # ● 교회를 세우는 행복한 집사
 
 ## 프롤로그
