@@ -4,9 +4,6 @@ layout: true
 title: 2021
 ---
 
-template: inverse
-class: middle
-
 # ● 교회를 세우는 행복한 집사
 
 ## 프롤로그
@@ -15,6 +12,8 @@ class: middle
 
 ---
 
+template: inverse
+class: middle
 layout: false
 
 ## 1. 집사란 직분을 바로 이해하고 섬기라
