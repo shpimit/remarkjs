@@ -4,15 +4,15 @@ layout: true
 title: Readme
 ---
 
-# Introducing Computer Blog !!
+# Introducing Miscellaneous !!
 ##### (Learn by doing)
 
 ---
 
 ## Overview
 
-> 이곳은 Computer Science를 개인적으로 정리한 곳이다.
-> <small> 현재 Big Data, Block Chain, HPC 위주로 정리를 하였다. </small>
+> 이곳은 개인적인 잡동사니를 정리한 곳이다.
+> <small> Miscellaneous </small>
 
 ---
 
@@ -29,9 +29,10 @@ layout: true
 
 ---
 
-## Big Data
+## 사용법
 
-빅데이터 기초/분석/활용/모델링/기계학습에 대하여 정리 하였습니다.
+- Public Repository일때
+- https://shpimit.github.io/remarkjs/cmd?2021#1
 
 ---
 
