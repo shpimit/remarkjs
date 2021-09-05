@@ -1,7 +1,7 @@
 name: inverse
 class: center, middle, inverse
 layout: true
-title: 2021
+title: church
 ---
 
 # ● 교회를 세우는 행복한 집사
