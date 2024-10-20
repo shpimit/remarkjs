@@ -69,7 +69,7 @@ They are new every morning; great is your faithfulness.
 
 ## Psalms 1:1~2
 
-Blessed is the man who does not walk inf the counsel of the wicked or stand in the way od sinners or sit in the seat of mockers. But his delight is in the law of the Lord, and on his law he meditates day and night.
+Blessed is the man who does not walk in the counsel of the wicked or stand in the way of sinners or sit in the seat of mockers. But his delight is in the law of the Lord, and on his law he meditates day and night.
 
 ---
 
@@ -97,7 +97,7 @@ Your word is a lamp to my feet and a light for my path
 
 ## Romans 1:16
 
-I am not ashamed of the gosple, because it is the power of God for the salvation of everyone who believes:first for the Jew, then for the Gentile.
+I am not ashamed of the gosple, because it is the power of God for the salvation of everyone who believes: first for the Jew, then for the Gentile.
 
 ---
 
@@ -105,7 +105,7 @@ I am not ashamed of the gosple, because it is the power of God for the salvation
 
 ## 로마서 1:16
 
-내가 복음을 부끄러워하지 아니하노니 이 복음은 모든 믿는 자에게 구원을 주시는 하나님의 능력이 됨이라 먼저는 유대인에게요 그리고 헤라인에게로다
+내가 복음을 부끄러워하지 아니하노니 이 복음은 모든 믿는 자에게 구원을 주시는 하나님의 능력이 됨이라 먼저는 유대인에게요 그리고 헬라인에게로다
 
 ---
 
@@ -115,7 +115,7 @@ All Scripture is God-breathed and is useful for teaching, rebuking, correcting a
 
 ---
 
-## 디모뎅후서 3:16
+## 디모데후서 3:16
 
 모든 성경은 하나님의 감동으로 된 것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니
 
@@ -133,6 +133,6 @@ Do not be anxious about anything, but in everything, by prayer and petition, wit
 
 ## 빌립보서 4:6~7
 
-아무것도 염려하지 말고 다만 모든 일에 기도와 간구로, 너희 구할 것을 감사함으로 하나님께 아뢰라 그리하면 모든 지각에 뛰어난 하나님의 평가이 그리스도 예수안에서 너의 마음과 생각을 지키시리라
+아무것도 염려하지 말고 다만 모든 일에 기도와 간구로, 너희 구할 것을 감사함으로 하나님께 아뢰라 그리하면 모든 지각에 뛰어난 하나님의 평강이 그리스도 예수안에서 너의 마음과 생각을 지키시리라
 
 ---
