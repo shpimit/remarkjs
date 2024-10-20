@@ -9,8 +9,11 @@ title: 2024
 ## Romans 10:9~10
 
 * That if you confess with your mouth, "Jesus is Lord", and believe in your heart
-* that God raised him from the dead, you will be saved. For it is with your heart
-* that you believe and are justified, and it is with your mouth that you confess and are saved
+* That if you confess with your mouth, "Jesus is Lord",
+* and believe in your heart that God raised him from the dead, 
+* you will be saved. For it is with your heart that 
+* you believe and are justified, and it is with your mouth 
+* that you confess and are saved
 
 ---
 
@@ -18,27 +21,21 @@ title: 2024
 
 ## 로마서 10:9~10
 
-```
 네가 만일 네 입으로 예수를 주로 시인하며 또 하나님께서 그를 죽은 자 가운데서 살리신 것을
 네 마음에 믿으면 구원을 받으리라 사람이 마음으로 믿어 의에 이르고 입으로 시인하여 구원에
 이르느니라
-```
 
 ---
 
 ## Mattew 16:16
 
-```
 Simon Peter answered, "You are the Christ, the Son of the living God."
-```
 
 ---
 
 ## 마태복음 16:16
 
-```
 시몬 베드로가 대답하여 이르되 주는 그리스도시요. 살아계신 하나님의 아들이시니이다.
-```
 
 ---
 
@@ -46,9 +43,7 @@ Simon Peter answered, "You are the Christ, the Son of the living God."
 
 ## Hebrew 4:16
 
-```
 Let us the approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.
-```
 
 ---
 
@@ -56,6 +51,20 @@ Let us the approach the throne of grace with confidence, so that we may receive 
 
 ## 히브리서 4:16
 
-```
 그러므로 우리는 긍휼하심을 받고 때를 따라 돕는 은혜를 얻기 위하여 은혜의 보좌 앞에 담대히 나아갈것이니라
-```
+
+---
+
+## Lamentations 3:22 ~ 23
+
+Because of the Lord's great love we are not consumed, for his compassions never fail.
+They are new every morning; great is your faithfulness.
+
+---
+
+## 예레미아애가 3:22~23
+
+여호와의 인자와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다.
+이것들이 아침마다 새로우니 주의 성실하심이 크시도소이다.
+
+---
