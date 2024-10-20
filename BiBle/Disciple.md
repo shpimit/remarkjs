@@ -8,11 +8,8 @@ title: 2024
 
 ## Romans 10:9~10
 
-* That if you confess with your mouth, "Jesus is Lord",
-* and believe in your heart that God raised him from the dead,
-* you will be saved. For it is with your heart that
-* you believe and are justified, and it is with your mouth
-* that you confess and are saved
+That if you confess with your mouth, "Jesus is Lord", and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart
+that you believe and are justified, and it is with your mouth that you confess and are saved
 
 ---
 
@@ -65,5 +62,21 @@ They are new every morning; great is your faithfulness.
 
 여호와의 인자와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다.
 이것들이 아침마다 새로우니 주의 성실하심이 크시도소이다.
+
+---
+
+# what is the Right Prayer
+
+## Pilippians 4:6~7
+
+Do not be anxious about anything, but in everything, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.
+
+---
+
+# 무엇이 바른 기도인가?
+
+## 빌립보서 4:6~7
+
+아무것도 염려하지 말고 다만 모든 일에 기도와 간구로, 너희 구할 것을 감사함으로 하나님께 아뢰라 그리하면 모든 지각에 뛰어난 하나님의 평가이 그리스도 예수안에서 너의 마음과 생각을 지키시리라
 
 ---
