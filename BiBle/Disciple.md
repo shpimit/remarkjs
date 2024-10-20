@@ -8,11 +8,10 @@ title: 2024
 
 ## Romans 10:9~10
 
-* That if you confess with your mouth, "Jesus is Lord", and believe in your heart
 * That if you confess with your mouth, "Jesus is Lord",
-* and believe in your heart that God raised him from the dead, 
-* you will be saved. For it is with your heart that 
-* you believe and are justified, and it is with your mouth 
+* and believe in your heart that God raised him from the dead,
+* you will be saved. For it is with your heart that
+* you believe and are justified, and it is with your mouth
 * that you confess and are saved
 
 ---
